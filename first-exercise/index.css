@@ -6,8 +6,8 @@
 }
 
 .heading:hover {
-    font-size: 10px;
+    font-size: 20px;
     color: green;
-    letter-spacing: 10pxS;
+    letter-spacing: 20px;
     cursor: pointer;
 }

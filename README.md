@@ -1,2 +1,2 @@
 # Animations
-practicals on animations
+practicals on animations with html and css
